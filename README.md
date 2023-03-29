@@ -7,9 +7,26 @@ You can navigate through your preferred case on each title connected to the link
 
 ---
 
-## Getting Ethereum Blockchain Data
+## [Getting Ethereum Blockchain Data](https://github.com/JShollaj/AWS-Solutions-Portfolio/blob/master/Getting%20Ethereum%20Blockchain%20Data.md)
 
-Solution behind getting massive data from the public Blockchain ETL and shifting to AWS
+Solution behind getting massive data from the public Blockchain ETL and shifting to AWS.
+
+Main services used:
+EC2, S3, Athena, DynamoDB
+
+---
+
+## [Streaming NFT  Data](https://github.com/JShollaj/AWS-Solutions-Portfolio/blob/master/Getting%20Ethereum%20Blockchain%20Data.md)
+
+Solution behind getting massive data from the public Blockchain ETL and shifting to AWS.
+
+Main services used:
+S3, Kinesis Firehose, RDS, DynamoDB
+
+---
+
+
+
 
 
 
