@@ -14,7 +14,7 @@ Solution behind getting massive data from the public Blockchain ETL and shifting
 Main services used:
 EC2, S3, Athena, DynamoDB
 
-![Alt text](ETH/ETH-Architecture.png)
+![Alt text](ETH%20Assets/ETH-Architecture.png)
 
 ---
 
